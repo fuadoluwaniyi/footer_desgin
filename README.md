@@ -1,2 +1,2 @@
 # footer_desgin
- this is a footer_desgin i made just for practise.
+ this is a footer_design: the link to it https://fuadoluwaniyi.github.io/footer_desgin/
